@@ -1,0 +1,3 @@
+diff a/KFPRepo-master/.gitignore b/KFPRepo-master/.gitignore	(rejected hunks)
+@@ -0,0 +1 @@
++KFP/Library/
